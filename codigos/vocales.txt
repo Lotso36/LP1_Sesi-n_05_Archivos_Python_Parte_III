@@ -1,0 +1,7 @@
+Texto: Hola 
+a: 1
+e: 0
+i: 0
+o: 1
+u: 0
+Total: 2
